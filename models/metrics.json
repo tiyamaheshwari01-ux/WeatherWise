@@ -1,0 +1,22 @@
+{
+    "temperature_mae": 1.063,
+    "temperature_rmse": 1.49,
+    "rain_accuracy": 0.8706,
+    "rain_precision": 0.6816,
+    "rain_recall": 0.774,
+    "training_records": 3213,
+    "testing_records": 804,
+    "features": [
+        "temperature_2m_max",
+        "temperature_2m_min",
+        "temperature_2m_mean",
+        "precipitation_sum",
+        "rain_sum",
+        "precipitation_hours",
+        "wind_speed_10m_max",
+        "relative_humidity_2m_mean",
+        "pressure_msl_mean",
+        "weather_code",
+        "day_of_year"
+    ]
+}
